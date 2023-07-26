@@ -4,8 +4,8 @@ The Email Client project is a Java-based desktop application that leverages Obje
 
 ## Available Functions
 
-Adding a new recipient
-Sending an email
-Printing out all the names of recipients who have their birthday set to current date
-Printing out details (subject and recipient) of all the emails sent on a date specified by user input
-Printing out the number of recipient objects in the application
+->Adding a new recipient
+->Sending an email
+->Printing out all the names of recipients who have their birthday set to current date
+->Printing out details (subject and recipient) of all the emails sent on a date specified by user input
+->Printing out the number of recipient objects in the application
